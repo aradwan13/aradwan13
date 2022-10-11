@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmad Radwan.
+<b>- 👋 Hi, I’m Ahmad Radwan. </b>
 
 
 Data Science and Business Analytics

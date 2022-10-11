@@ -1,4 +1,10 @@
 - 👋 Hi, I’m Ahmad Radwan.
 
 
-MA Data Seince And Busniess Analytics 
+Data Science and Business Analytics
+
+
+Time is the implicit core of life
+
+
+Interest in Time Series Forecasting / Machine Learning / Deep Learning 

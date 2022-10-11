@@ -1,7 +1,7 @@
 <h2>- 👋 Hi, I’m Ahmad Radwan. </h2>
 
 
-Data Science and Business Analytics
+I am  M.A Student  Data Science and Business Analytics @ Arab American University 
 
 
 Time is the implicit core of life

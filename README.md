@@ -7,4 +7,4 @@ I am  M.A Student  Data Science and Business Analytics @ Arab American Universit
 <b> Time is the implicit core of life </b>
 
 
-Interest in Time Series Forecasting / Machine Learning / Deep Learning 
+Interest in Computer Vision / Machine Learning
